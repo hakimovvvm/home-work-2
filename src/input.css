@@ -7,3 +7,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.bg2{
+    background-image: url(../bg\ \(1\).png);
+    height: 110vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
